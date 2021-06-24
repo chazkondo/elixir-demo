@@ -1,4 +1,4 @@
-# Games
+# Elixir Starter Application
 
 **TODO: Add description**
 
