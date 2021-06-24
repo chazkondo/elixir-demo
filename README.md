@@ -19,3 +19,12 @@ Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_do
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/games](https://hexdocs.pm/games).
 
+### Initial Commit
+
+[x] List Data Structures
+[x] Basic Function Structure
+
+### Commit 1
+
+[x] File Structure
+[x] Private Functions
