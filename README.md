@@ -21,10 +21,10 @@ be found at [https://hexdocs.pm/games](https://hexdocs.pm/games).
 
 ### Initial Commit
 
-[x] List Data Structures
+[x] List Data Structures  
 [x] Basic Function Structure
 
 ### Commit 1
 
-[x] File Structure
+[x] File Structure  
 [x] Private Functions
