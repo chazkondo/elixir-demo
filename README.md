@@ -30,3 +30,7 @@ be found at [https://hexdocs.pm/games](https://hexdocs.pm/games).
 [x] Private Functions
 
 ~ test commit
+
+### Commit 2
+
+[x] Structs
