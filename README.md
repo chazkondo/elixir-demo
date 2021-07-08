@@ -35,3 +35,4 @@ be found at [https://hexdocs.pm/games](https://hexdocs.pm/games).
 
 [x] Structs
 [x] Alias
+[x] Maps (less strict)
