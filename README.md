@@ -24,13 +24,14 @@ be found at [https://hexdocs.pm/games](https://hexdocs.pm/games).
 [x] List Data Structures  
 [x] Basic Function Structure
 
-### Commit 1
+### Session 1
 
 [x] File Structure  
 [x] Private Functions
 
 ~ test commit
 
-### Commit 2
+### Session 2
 
 [x] Structs
+[x] Alias
