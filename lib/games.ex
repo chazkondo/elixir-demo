@@ -1,4 +1,6 @@
 defmodule Games do
+
+  alias Games.Entities.Game
   # @all_games [
   #   %{name: "Bravely Default 2", publisher: "Square Enix", year: "2021"},
   #   %{name: "Starcraft 2", publisher: "Blizzard", year: "2010"}
